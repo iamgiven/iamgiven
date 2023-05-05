@@ -27,4 +27,4 @@
 <p>ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ</p>
 
 <h3 align="left">Projects:</h3>
-<p>- <img width="120" alt="Coding" width="400" src="https://pelawan.id/img/pelawan_logo.png"></p>
+<p>• <a href="https://pelawan.id" target="_blank"><img width="120" alt="Coding" width="400" src="https://pelawan.id/img/pelawan_logo.png"></p></a>
