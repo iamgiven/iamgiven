@@ -1,3 +1,4 @@
+![logo](https://static.vecteezy.com/system/resources/previews/006/699/636/large_2x/technology-background-and-line-diagram-blue-technology-circle-technology-network-working-free-vector.jpg)
 <h1 align="center">Hi 👋, I'm Givendra Dipanegara</h1>
 <h3 align="center">A passionate frontend developer from Indonesia</h3>
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/SxJQcg2-UGkAAAAC/working-from.gif">
