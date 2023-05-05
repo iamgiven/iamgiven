@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **givendra03@gmail.com**
 
-<p height="100px"></p>
+<p style="height: 100px;"></p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
