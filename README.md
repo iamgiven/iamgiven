@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Givendra Dipanegara</h1>
 <h3 align="center">A passionate frontend developer from Indonesia</h3>
+<p>ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ</p>
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/SxJQcg2-UGkAAAAC/working-from.gif">
 
 
