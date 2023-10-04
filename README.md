@@ -3,7 +3,7 @@
 <p>ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ</p>
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/SxJQcg2-UGkAAAAC/working-from.gif">
 
-
+<p>ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ</p>
 
 - 🌱 I’m currently learning **MERN**
 
@@ -14,7 +14,7 @@
 <p>ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ</p>
 
 <h3 align="left">Support Me:</h3>
-<p align="left">ko-fi.com/givendra</p>
+<p align="left">https://ko-fi.com/givendra</p>
 
 <p>ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ</p>
 
