@@ -4,7 +4,6 @@
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/SxJQcg2-UGkAAAAC/working-from.gif">
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=iamgiven&label=Profile%20views&color=0e75b6&style=flat" alt="iamgiven" /> </p>
 
 - 🌱 I’m currently learning **MERN**
 
@@ -15,7 +14,7 @@
 <p>ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ</p>
 
 <h3 align="left">Support Me:</h3>
-<p align="left">https://ko-fi.com/givendra</p>
+<p align="left">ko-fi.com/givendra</p>
 
 <p>ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ</p>
 
