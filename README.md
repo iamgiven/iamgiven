@@ -13,8 +13,6 @@
 
 <p>ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ</p>
 
-<h3 align="left">Support Me:</h3>
-<p align="left">https://ko-fi.com/givendra</p>
 
 <p>ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ</p>
 
