@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Givendra Dipanegara</h1>
 <h3 align="center">Just a nerd who loves learn programming</h3>
 <p>ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ</p>
-<img align="right" alt="Coding" width="400" src="https://media.tenor.com/SxJQcg2-UGkAAAAC/working-from.gif">
+<img align="right" alt="Coding" width="300" src="https://media.tenor.com/SxJQcg2-UGkAAAAC/working-from.gif">
 
 <p>ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ</p>
 
